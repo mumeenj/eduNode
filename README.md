@@ -1,1 +1,2 @@
 # eduNode
+what is edunode?
